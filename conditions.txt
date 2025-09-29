@@ -1,0 +1,7 @@
+customer = {
+    "name": "lamiya rampurwala",
+    "age": "22",
+    "age": '26',
+
+
+}
